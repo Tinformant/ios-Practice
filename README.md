@@ -1,3 +1,3 @@
 # ios-Practice
 
-This repository includes my practice projects for ios
+This repository includes my ios practice projects.
